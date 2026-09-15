@@ -1,0 +1,7 @@
+=== INVOICE: ORD-2026-X9 ===
+Item Count:  3
+Subtotal:    $180.00
+Tax:         $9.45
+Grand Total: $189.45
+------------------------------
+
