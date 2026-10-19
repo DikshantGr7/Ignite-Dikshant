@@ -1,1 +1,0 @@
-Class-based context manager execution.
